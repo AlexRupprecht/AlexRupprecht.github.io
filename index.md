@@ -5,3 +5,4 @@ Dies ist eine Ratte, welche im Untergrund lebt.
 * Ist Lichtscheu
 * Wird Gefässe mit Gift
 * Ist klein
+> Sneaky Sneaky
